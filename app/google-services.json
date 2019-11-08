@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070204646031",
+    "firebase_url": "https://onetoonechatapp-bd66d.firebaseio.com",
+    "project_id": "onetoonechatapp-bd66d",
+    "storage_bucket": "onetoonechatapp-bd66d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070204646031:android:d3257f5de68c3cddca36fa",
+        "android_client_info": {
+          "package_name": "com.example.onetoonechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070204646031-bkn6fapkh58td27d2mgi3j8554qcnjkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onetoonechatapp",
+            "certificate_hash": "c766d0440b1bb18c7dc224407792591dd8b4a186"
+          }
+        },
+        {
+          "client_id": "1070204646031-ulavlpok9ck1bobp4iup5oel2g0f49as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhyx0H6guq8d_M3ITOpWdrJ5RfRpvORck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070204646031-ulavlpok9ck1bobp4iup5oel2g0f49as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
